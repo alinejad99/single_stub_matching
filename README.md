@@ -1,4 +1,4 @@
-# single_stub_matching
+# single_stub_matching (in ADS)
 
 In this repository, we simulate a single stub matching circuit. You may be familiar with the concept of a single stub matching circuit from prior experiments. In this exercise, our goal is to simulate an open-circuit single stub matching circuit.
 
